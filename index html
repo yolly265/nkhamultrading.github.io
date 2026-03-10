@@ -90,25 +90,25 @@ background:#000;
 <div class="products">
 
 <div class="product">
-<img src="paint1.jpg">
+<img src="firstcoatings.png">
 <h3>Auto Paints</h3>
 <p>High quality automotive paints for professional finishing.</p>
 </div>
 
 <div class="product">
-<img src="paint2.jpg">
+<img src="luxor.png">
 <h3>Primers</h3>
 <p>Durable primers for perfect paint preparation.</p>
 </div>
 
 <div class="product">
-<img src="paint3.jpg">
+<img src="transline.png">
 <h3>Masking Tapes & Abrasives</h3>
 <p>Essential materials for painting and bodywork.</p>
 </div>
 
 <div class="product">
-<img src="paint4.jpg">
+<img src="luxor">
 <h3>Thinners</h3>
 <p>Premium paint thinners for professional mixing.</p>
 </div>
